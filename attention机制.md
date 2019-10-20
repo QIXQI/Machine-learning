@@ -126,4 +126,4 @@ graph LR
 
 将视频分为图片帧
 
-pdf: https://github.com/QIXQI/machine-learning/edit/master/resource/深度学习2019-10-20.pdf
+pdf: https://github.com/QIXQI/machine-learning/edit/master/resource/深度学习19-10-20.pdf
