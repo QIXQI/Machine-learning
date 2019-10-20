@@ -125,3 +125,5 @@ graph LR
 ### 视频字幕
 
 将视频分为图片帧
+
+pdf: https://github.com/QIXQI/machine-learning/edit/master/resource/深度学习2019-10-20.pdf
